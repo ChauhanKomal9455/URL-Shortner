@@ -12,7 +12,7 @@ Minimal and clean design
 
 ⚙️ How to Run Locally
 1.Clone the Repository
-    git clone https://github.com/your-username/url-shortener.git
+    git clone https://github.com/ChauhanKomal9455/url-shortener.git
     cd url-shortener
     
 2.Install Required Packages
